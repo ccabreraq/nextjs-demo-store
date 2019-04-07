@@ -1,6 +1,7 @@
 {
   "private": true,
   "license": "MIT",
+  "name": "pru1",
   "scripts": {
     "dev": "next",
     "build": "next build",
